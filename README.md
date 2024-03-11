@@ -12,7 +12,7 @@ Explore a diverse range of React JS projects tailored to deepen understanding an
 
 1. **Todo App**: A minimalist task management application focusing on React component composition, state management, and user input handling.
 
-2. **Bharat Clock**: An intuitive application fetching real-time weather data from an API, emphasizing asynchronous data fetching and dynamic UI updates.
+2. **Bharat Clock**: An intuitive application fetching real-time time and date data using JavaScript, emphasizing asynchronous data fetching and dynamic UI updates.
 
 3. **E-commerce Site**: Dive into the intricacies of web commerce with this project, featuring routing, global state management (via Context API or Redux), and integration of third-party libraries for enhanced functionality.
 
