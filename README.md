@@ -14,9 +14,13 @@ Explore a diverse range of React JS projects tailored to deepen understanding an
 
 2. **Bharat Clock**: An intuitive application fetching real-time time and date data using JavaScript, emphasizing asynchronous data fetching and dynamic UI updates.
 
-3. **E-commerce Site**: Dive into the intricacies of web commerce with this project, featuring routing, global state management (via Context API or Redux), and integration of third-party libraries for enhanced functionality.
+3. **Counter Project**: A simple React project showcasing a counter application with increment and decrement functionality.
 
-4. **Blogging Platform**: Unveil the power of React with CRUD operations in this blogging platform, showcasing form handling, user authentication, and client-side routing.
+4. **Window Color Changer**: A React project with multiple color buttons, enabling users to change the background color of the window upon clicking any color button.
+
+4. **Password Generator**: A React project utilizing various hooks such as useState and useEffect, offering features to generate passwords automatically with options to include numbers and special characters, along with functionality to copy the generated password to the clipboard.
+
+4. **Currency Converter**: A React project featuring two components for converting between over 50 currencies using up-to-date data fetched through React's API functionality, complemented by a convenient swap button for easy currency exchange.
 
 Each project is meticulously crafted to provide practical, hands-on experience with React JS concepts, aligning with real-world development scenarios.
 
